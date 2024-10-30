@@ -1,0 +1,1 @@
+export { default as AdminIntegrations } from '../integrations';
